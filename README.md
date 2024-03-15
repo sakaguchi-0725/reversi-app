@@ -14,3 +14,5 @@ https://www.udemy.com/share/107lRk3@EkZnoD0ooBkIIrehJd25svUEEbdt00ILXkNIUKOC_xCW
 - クラス図（概念モデル）: 機能の洗い出しや認識合わせに有効
 - 機能一覧
 - 画面イメージ
+
+# API・DB設計
